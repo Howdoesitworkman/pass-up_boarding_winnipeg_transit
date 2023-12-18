@@ -13,3 +13,5 @@ The part4 is to get the avearage boardings of every stop in each "route+directio
 The part5 is to get the pass-up support of every stop in each "route+direction".
 
 The part6 is to connect the pass-up support to the average boardings for every stop in the Top15 routes that suffer most from pass-ups.
+
+To run this project, we also need the file "bus_stops_in_order" and unzip it first.
